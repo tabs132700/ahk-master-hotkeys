@@ -1,0 +1,4 @@
+*.bak
+*.stale-backup
+Thumbs.db
+desktop.ini
