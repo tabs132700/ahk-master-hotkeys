@@ -48,7 +48,7 @@ written to a temp file and run only when you press the hotkey.
 | `Ctrl+Shift+X` | Launch XAMPP Control Panel |
 | `Ctrl+Shift+M` | Open phpMyAdmin |
 | `Ctrl+Shift+A` | Turn on Bluetooth if needed, connect your configured audio device, and verify it actually connected |
-| `Ctrl+Shift+Alt+A` | Disconnect that device's audio (Bluetooth itself stays on) |
+| `Ctrl+Shift+Alt+A` | Disconnect that device's audio and mute system volume (Bluetooth itself stays on) |
 | `Ctrl+Shift+?` | Open this README |
 | `Ctrl+Alt+F4` | Gracefully close all normal open windows (`WinClose`, never a forced kill) |
 | `F12` | Turn all of the above on/off. Always works, even during fullscreen. |

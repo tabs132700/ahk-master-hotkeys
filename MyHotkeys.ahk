@@ -735,7 +735,8 @@ if ($disconnected) {
     switch exitCode
     {
         case 0:
-            ToolTip "AirPods disconnected"
+            SoundSetMute(1)
+            ToolTip "AirPods disconnected (muted)"
             SetTimer () => ToolTip(), -1500
         case 1:
             MsgBox "The AirPods still appear connected after attempting to disconnect."
